@@ -33,11 +33,11 @@ git push
 ### 文档：
 1. 本次文档应该基于**markdown**，并包含下述内容
    * Description
-　**DOL** 框架描述(随着实验记性添加、修改)
+   <br/>　**DOL** 框架描述(随着实验记性添加、修改)
    * How to install
-　**DOL** 安装笔记
+   <br/>　**DOL** 安装笔记
    * Experimental experience
-　实验感想、实验心得
+   <br/>　实验感想、实验心得
 2. 建议图文并茂、言简意赅
 
 ##### 关于markdown
@@ -59,6 +59,6 @@ git push
 1. 在 [github](www.github.com)上创建一个仓库，仓库必须命名为 *"ES2016_学号"*，**该仓库将作为本门课程的实验课的评分依据，我们承诺期末前会看完每个仓库**
 2. 基于配置 DOL 的过程，写一个文档，命名为 **README.md**
 3. 将该文件添加到 **github** 上你的仓库中
-4. 在 [此处](http://www.chaojibiaoge.com/index.php/U/url/czKJgPol) 填写你对应的信息，包括学号、姓名、你所创建的仓库的 url 地址如："*https://github.com/CPSinSYSU/ES2016_16214269*", **该信息登记将于 10:10, 2016.10.10 关闭**
+4. 在 [此处](http://www.chaojibiaoge.com/index.php/U/url/czKJgPol) 填写你对应的信息，包括学号、姓名、你所创建的仓库的 url 地址如："*https://github.com/CPSinSYSU/ES2016_16214269*", **该信息登记将于 10:10, 10th October, 2016 关闭**
 
 
