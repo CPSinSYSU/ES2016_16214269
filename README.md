@@ -59,6 +59,6 @@ git push
 1. 在 [github](www.github.com)上创建一个仓库，仓库必须命名为 *"ES2016_学号"*，**该仓库将作为本门课程的实验课的评分依据，我们承诺期末前会看完每个仓库**
 2. 基于配置 DOL 的过程，写一个文档，命名为 **README.md**
 3. 将该文件添加到 **github** 上你的仓库中
-4. 在 [此处](http://www.chaojibiaoge.com/index.php/U/url/czKJgPol) 填写你对应的信息，包括学号、姓名、你所创建的仓库的 url 地址如："*https://github.com/CPSinSYSU/ES2016_16214269*", **该信息登记将于 10:10, 10th October, 2016 关闭**
+4. 在 [此处](http://www.chaojibiaoge.com/index.php/U/url/czKJgPol) 填写你对应的信息，包括学号、姓名、你所创建的仓库的 url 地址如："*https://github.com/CPSinSYSU/ES2016_16214269*", **该信息登记将于 <font color="red">10:10, 10th October, 2016</font> 关闭**
 
 
