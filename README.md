@@ -33,7 +33,7 @@ git push
 ### 文档：
 1. 本次文档应该基于**markdown**，并包含下述内容
    * Description
-   <br/>　**DOL** 框架描述(随着实验记性添加、修改)
+   <br/>　**DOL** 框架描述(随着实验进行迭代添加、修改)
    * How to install
    <br/>　**DOL** 安装笔记
    * Experimental experience
