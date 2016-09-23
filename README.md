@@ -32,16 +32,16 @@ git push
 
 ### 文档：
 1. 本次文档应该基于**markdown**，并包含下述内容
->+ Description
+   * Description
 　**DOL** 框架描述(随着实验记性添加、修改)
->+ How to install
+   * How to install
 　**DOL** 安装笔记
->+ Experimental experience
+   * Experimental experience
 　实验感想、实验心得
 2. 建议图文并茂、言简意赅
-　
+
 ##### 关于markdown
-很容易排版，结合markdown语法和所见即所得的编辑器很容易调整。
+　很容易排版，结合markdown语法和所见即所得的编辑器很容易调整。
 
 1. markdown 语法
    请参考[此处](http://www.jianshu.com/p/1e402922ee32/)
