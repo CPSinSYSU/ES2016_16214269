@@ -7,6 +7,8 @@
 <br/>　本次课程选择使用 *Git* 进行版本控制，并将仓库托管在 Github 上。对于 Git 的工作原理，有兴趣的可自己了解([Git 内部原理](https://git-scm.com/book/zh/v2/Git-%E5%86%85%E9%83%A8%E5%8E%9F%E7%90%86-%E5%BA%95%E5%B1%82%E5%91%BD%E4%BB%A4%E5%92%8C%E9%AB%98%E5%B1%82%E5%91%BD%E4%BB%A4))。下文将大致介绍 Git 的工作流程。
 
 ##### 关于 Github
+> References:
+>　[Git教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 　Github 是一个基于 Git 的在线仓库，提供了网页供用户管理仓库
 ##### 关于 Git
 1. 安装 Git 
