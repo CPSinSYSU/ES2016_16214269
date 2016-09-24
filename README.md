@@ -10,13 +10,14 @@
 > References:
 >　[Git教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 　Github 是一个基于 Git 的在线仓库，提供了网页供用户管理仓库
+
 ##### 关于 Git
 1. 安装 Git 
    [Git 安装参考](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)，图形化&命令行工具都可以。
 
 2. 基本的 Git 工作流包括：
 > References:
-> 　[git几步走](http://durant35.github.io/2016/07/26/tool_git%E5%87%A0%E6%AD%A5%E8%B5%B0/#more)
+> 　[git几步走](https://github.com/CPSinSYSU/ES2016_16214269/blob/master/git%E5%87%A0%E6%AD%A5%E8%B5%B0.md)
 
 ```sh
 # 拷贝在github上的仓库xxxx(如: https://github.com/CPSinSYSU/ES2016_16214269.git)为你仓库的地址
