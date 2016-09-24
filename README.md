@@ -10,7 +10,7 @@
 > References:
 >　[Git教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-Github 是一个基于 Git 的在线仓库，提供了网页供用户管理仓库
+　Github 是一个基于 Git 的在线仓库，提供了网页供用户管理仓库
 
 ##### 关于 Git
 1. 安装 Git 
